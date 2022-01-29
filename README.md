@@ -24,7 +24,7 @@ We also developed a multiple-line chart showing weekly fare trends from January 
 - Urban fares are more susceptible to weekly swings than the other 2 city types, especially during weeks in March.  
 - Suburban fares trend up over the course of April, whereas Urban and Rural fares trend down over the month.  
 
-![Weekly Trend Summary](/analysis/PyBer_fare_summary.PNG)  
+![Weekly Trend Summary](/analysis/PyBer_fare_summary.png)  
 
 ## Summary
 
