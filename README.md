@@ -22,7 +22,7 @@ We also developed a multiple-line chart showing weekly fare trends from January 
 - Rural weekly fare trends are flatter than urban and suburban trends where there’s more variation over this stretch.  
 - All 3 lines see a peak toward the end of February and a subsequent dip the following week.  
 - Urban fares are more susceptible to weekly swings than the other 2 city types, especially during weeks in March.  
-- Suburban fares trend up over the course of April, whereas Urban and Rural fares trend down over the month.  
+- Suburban fares trend up over the course of April, whereas urban and rural fares trend down over the month.  
 
 ![Weekly Trend Summary](/analysis/PyBer_fare_summary.png)  
 
