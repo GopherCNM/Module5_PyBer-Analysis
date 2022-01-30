@@ -16,7 +16,7 @@ As expected, there’s a relationship between population density and the use of 
 
 ### Weekly Fare Trending
 
-We also developed a multiple-line chart showing weekly fare trends from January to April 2019, by city type. We note a few findings based on this visual:
+We also developed a multiple-line chart showing weekly fare trends from January to April 2019, by city type. We noted a few findings based on this visual:
 
 - Fares are at their lowest the first week of January. Perhaps this is due to colder weather, and a post-holiday lull.  
 - Rural weekly fare trends are flatter than urban and suburban trends where there’s more variation over this stretch.  
