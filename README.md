@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-For this project, we are analyzing data for a ride-sharing app company named PyBer. Using a couple of CSV data sets and leveraging Python scripts, Pandas, and Matplotlib, we will help to tell the story using summary tables and chart visualizations. We will bucket the data based on city type (Urban, Suburban, Rural), and look to understand ride counts, driver counts, and fares over this period (January-May 2019). We will also visualize weekly trends in fares from January through April, for each city type. Using our findings, we will present a summary and recommendations to our manager, Omar, and the company’s CEO, V. Isualize. These recommendations will be used to improve the company’s fare revenue, while also aiming to improve access and affordability for underserved cities.
+For this project, we are analyzing data for a ride-sharing app company named PyBer. Using a couple of CSV data sets and leveraging Python scripts, Pandas, and Matplotlib, we will help to tell the story using summary tables and chart visualizations. We will bucket the data based on city type (urban, suburban, rural), and look to understand ride counts, driver counts, and fares over this period (January-May 2019). We will also visualize weekly trends in fares from January through April, for each city type. Using our findings, we will present a summary and recommendations to our manager, Omar, and the company’s CEO, V. Isualize. These recommendations will be used to improve the company’s fare revenue, while also aiming to improve access and affordability for underserved cities.
 
 ## Results
 
@@ -30,8 +30,8 @@ We also developed a multiple-line chart showing weekly fare trends from January 
 
 Based on our analysis, we offer three recommendations for consideration, to help understand and address disparities among the city types:
 
-1. Further review driver data to understand the prevalence of drivers with little or no ride activity during this period. For instance, within Urban cities there are more drivers than rides which means that not every driver was engaged. Stripping these drivers out would help us to better understand true fares by driver over this period, and to highlight opportunities for driver engagement.  
+1. Further review driver data to understand the prevalence of drivers with little or no ride activity during this period. For instance, within urban cities there are more drivers than rides which means that not every driver was engaged. Stripping these drivers out would help us to better understand true fares by driver over this period, and to highlight opportunities for driver engagement.  
 
 2. There’s an opportunity to improve accessibility and affordability in rural areas by increasing the driver base. This could be accomplished via targeted marketing efforts to hire drivers in these rural cities. Average fares per ride are also higher in rural cities, which could be an indication that riders are using ride-sharing services for longer distances. There could be an opportunity here to promote ride-sharing services for shorter drives, such as trips to the doctor’s office for appointments or sober cab rides.
 
-3. It would also be helpful to overlay ride request and driver availability over this period to understand if the peaks and valleys in weekly fare trending are a factor of demand (riders requesting rides), supply (available drivers), or both.
+3. It would also be helpful to overlay ride requests and driver availability over this period to understand if the peaks and valleys in weekly fare trending are a factor of demand (riders requesting rides), supply (available drivers), or both.
